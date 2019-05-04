@@ -1,0 +1,25 @@
+.site{
+    background-color: rgb(117, 107, 255);
+    color: aliceblue;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    margin: 0%;
+
+}
+
+.image1{
+    border-radius: 50%;
+    height:200px;
+    width: 200px;
+    align-self: center;
+}
+.site-text{
+    margin:10px;
+
+}
